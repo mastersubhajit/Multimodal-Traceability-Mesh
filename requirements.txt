@@ -1,0 +1,51 @@
+# PDF & Layout Parsing
+pdfplumber
+pymupdf
+paddleocr
+paddlepaddle-gpu
+layoutparser
+torchvision
+opencv-python
+
+# LLM & Fine-Tuning
+torch
+transformers
+trl
+bitsandbytes
+accelerate
+peft
+sentence-transformers
+vllm
+
+# Vector & Graph Storage
+faiss-gpu
+neo4j
+langchain
+langchain-community
+llama-index
+
+# Evaluation & Observability
+trulens-eval
+trulens-providers-openai
+trulens-providers-huggingface
+trulens-apps-langchain
+trulens-apps-llamaindex
+ragas
+nltk
+rouge-score
+evaluate
+scikit-learn
+scipy
+
+# API & Infrastructure
+datasets
+huggingface_hub
+fastapi
+uvicorn
+pydantic
+python-dotenv
+pandas
+numpy
+pillow
+tqdm
+requests

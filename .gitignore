@@ -1,0 +1,21 @@
+# Data and Models (Large files)
+data/
+models/
+
+# Build and Output
+tectonic
+logs/
+graphify-out/
+*.pdf
+*.sqlite
+
+# Python/Environment
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Agent/CLI configs
+.agent/
+.claude/
